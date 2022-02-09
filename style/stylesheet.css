@@ -20,7 +20,7 @@ h1{
 }
 
 .flex-item  {
-	border: 10px black;
+	border: 10px solid black;
 	width: 600px;
 	height: 100px;
 }
