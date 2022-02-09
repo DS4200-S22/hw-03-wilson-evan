@@ -1,0 +1,33 @@
+h1{
+	color: black;
+	text-align: center;
+	font-family: arial;
+}
+
+
+
+
+
+
+.flex-containter {
+	display: flex;
+	
+	algin-items: flex-start;
+	flex-wrap: wrap;
+	algin-content: center;
+	row-gap: 10px;
+	justify-content: space-evenly;
+}
+
+.flex-item  {
+	border: 2px black;
+	width: 800px;
+	height: 100px;
+}
+
+.image{
+	width: 700px;
+	height: 400px;
+	margin-right: 3%;
+	margin-bottom: 3%;
+}
