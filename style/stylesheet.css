@@ -12,10 +12,10 @@ h1{
 .flex-containter {
 	display: flex;
 	
-	algin-items: flex-start;
+	align-items: flex-start;
 	flex-wrap: wrap;
-	algin-content: center;
-	row-gap: 10px;
+	align-content: center;
+	row-gap: 100px;
 	justify-content: space-evenly;
 }
 
