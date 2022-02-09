@@ -8,14 +8,18 @@ h1{
 
 
 
+
 .flex-containter {
-	display:  flex;
-	background:  DodgerBlue;
+	display: flex;
+	
+	algin-items: flex-start;
+	flex-wrap: wrap;
+	algin-content: center;
+	row-gap: 10px;
+	justify-content: space-evenly;
 }
 
-.flex-containter > {
-	background-color:  #f1f1f1;
-	margin: 10px;
-	padding: 20px;
-	font-size: 30px;
+.flex-item  {
+	border: 2px black;
+	width: 800px;
 }
