@@ -15,19 +15,19 @@ h1{
 	align-items: flex-start;
 	flex-wrap: wrap;
 	align-content: center;
-	row-gap: 100px;
+	row-gap: 10px;
 	justify-content: space-evenly;
 }
 
 .flex-item  {
 	border: 5px solid black;
 	width: 500px;
-	height: 500px;
+	height: 400px;
 }
 
 .image{
-	width: 495px;
-	height: 495px;
+	width: 500px;
+	height: 350px;
 	margin-right: 2%;
 	margin-bottom: 2%;
 }
