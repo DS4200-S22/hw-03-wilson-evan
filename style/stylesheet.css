@@ -5,7 +5,9 @@ h1{
 	font-size: 32px;
 }
 
-
+p{
+	padding: 15px;
+}
 
 .flex-containter {
 	display: flex;
@@ -20,7 +22,7 @@ h1{
 .flex-item  {
 	border: 5px solid black;
 	width: 500px;
-	height: 500px;
+	height: 525px;
 }
 
 .image{
@@ -71,6 +73,8 @@ h2{
 .bullets{
 	text-align: center;
 	content-align: center;
+	align-items: flex-start;
+	list-style-position: inside;
 }
 
 .bullets > ul{
