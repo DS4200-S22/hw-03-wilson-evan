@@ -1,7 +1,7 @@
 # hw-03
 hw-03 - HTML+CSS &amp; Marks+Channels
 
-Link to GitHub Pages: [link](https://github.com/DS4200-S22/hw-03-wilson-evan.git).
+Link to GitHub Pages: [link](https://ds4200-s22.github.io/hw-03-wilson-evan/).
 
 ## Purpose
 
@@ -13,7 +13,7 @@ The purpose of this assignment is practice more advanced HTML and CSS, and to pr
 
 1. You can find a reference for what your final webpage should look like and how it should behanve in the "reference" folder. 
 
-1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see [link](https://github.com/DS4200-S22/hw-03-wilson-evan.git). 
+1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see [link](https://ds4200-s22.github.io/hw-03-wilson-evan/). 
 
 1. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
